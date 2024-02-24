@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "ci": "1234567",
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "direccion": "Calle 123",
+    "telefono": "555-1234",
+    "email": "juan@example.com",
+    "status": true
+  },
+  {
+    "id": 2,
+    "ci": "2345678",
+    "nombre": "María",
+    "apellido": "Gómez",
+    "direccion": "Avenida 456",
+    "telefono": "555-5678",
+    "email": "maria@example.com",
+    "status": false
+  },
+  {
+    "id": 3,
+    "ci": "3456789",
+    "nombre": "Pedro",
+    "apellido": "Martínez",
+    "direccion": "Calle 789",
+    "telefono": "555-9012",
+    "email": "pedro@example.com",
+    "status": true
+  },
+  {
+    "id": 4,
+    "ci": "4567890",
+    "nombre": "Ana",
+    "apellido": "López",
+    "direccion": "Avenida 012",
+    "telefono": "555-3456",
+    "email": "ana@example.com",
+    "status": false
+  },
+  {
+    "id": 5,
+    "ci": "5678901",
+    "nombre": "Carlos",
+    "apellido": "Sánchez",
+    "direccion": "Calle 234",
+    "telefono": "555-6789",
+    "email": "carlos@example.com",
+    "status": true
+  },
+  {
+    "id": 6,
+    "ci": "6789012",
+    "nombre": "Luisa",
+    "apellido": "Rodríguez",
+    "direccion": "Avenida 345",
+    "telefono": "555-1234",
+    "email": "luisa@example.com",
+    "status": false
+  },
+  {
+    "id": 7,
+    "ci": "7890123",
+    "nombre": "Jorge",
+    "apellido": "Hernández",
+    "direccion": "Calle 456",
+    "telefono": "555-5678",
+    "email": "jorge@example.com",
+    "status": true
+  },
+  {
+    "id": 8,
+    "ci": "8901234",
+    "nombre": "Laura",
+    "apellido": "García",
+    "direccion": "Avenida 567",
+    "telefono": "555-9012",
+    "email": "laura@example.com",
+    "status": false
+  },
+  {
+    "id": 9,
+    "ci": "9012345",
+    "nombre": "Mario",
+    "apellido": "Díaz",
+    "direccion": "Calle 678",
+    "telefono": "555-3456",
+    "email": "mario@example.com",
+    "status": true
+  },
+  {
+    "id": 10,
+    "ci": "0123456",
+    "nombre": "Sofía",
+    "apellido": "López",
+    "direccion": "Avenida 789",
+    "telefono": "555-6789",
+    "email": "sofia@example.com",
+    "status": false
+  },
+  {
+    "id": 11,
+    "ci": "9876543",
+    "nombre": "Daniel",
+    "apellido": "Martínez",
+    "direccion": "Calle 987",
+    "telefono": "555-4321",
+    "email": "daniel@example.com",
+    "status": true
+  },
+  {
+    "id": 13,
+    "ci": "7654321",
+    "nombre": "Roberto",
+    "apellido": "Sánchez",
+    "direccion": "Calle 765",
+    "telefono": "555-5432",
+    "email": "roberto@example.com",
+    "status": true
+  },
+  {
+    "id": 14,
+    "ci": "6543210",
+    "nombre": "Marta",
+    "apellido": "Rodríguez",
+    "direccion": "Avenida 654",
+    "telefono": "555-2109",
+    "email": "marta@example.com",
+    "status": false
+  }
+]
